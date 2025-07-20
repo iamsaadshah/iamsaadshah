@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Baihela Hussain!
+## Hi there 👋 I'm Saad Shah!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 
@@ -8,7 +8,7 @@
 
 ## 📂 Portfolio
 ### **Welcome to my professional portfolio, where I showcase my latest web applications, open‑source contributions, and data‑driven projects.**
-### **🌐 Explore my work ➔ [baihelahusain-app.vercel.app](https://baihelahusain-app.vercel.app/)**
+### **🌐 Explore my work ➔ **
 
 ---
 
@@ -35,11 +35,11 @@
   </tr>
   <tr>
     <td align="left">
-      <h3><img src="./assets/icons/server.svg" width="20" height="20"/> Backend</h3>
-      <div>
-        <img src="./assets/icons/django.svg" alt="Django" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/fastapi.svg" alt="FastAPI" width="50" height="50" />&nbsp;&nbsp;
-      </div>
+<!--       <h3><img src="./assets/icons/server.svg" width="20" height="20"/> Backend</h3> -->
+<!--       <div> -->
+<!--         <img src="./assets/icons/django.svg" alt="Django" width="50" height="50" />&nbsp;&nbsp;
+        <img src="./assets/icons/fastapi.svg" alt="FastAPI" width="50" height="50" />&nbsp;&nbsp; -->
+<!--       </div> -->
     </td>
     <td align="left">
       <h3><img src="./assets/icons/brain-cog.svg" width="20" height="20"/> ML/AI</h3>
@@ -84,17 +84,17 @@
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=baihelahusain&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baihelahusain&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsaadshah&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsaadshah&layout=compact&theme=radical)
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baihela-hussain)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto-baihelahusain@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-shah2004/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto-shah2004saad@gmail.com)
 
 
 
 ## 👀 Visitor Count:
-![Profile Views](https://komarev.com/ghpvc/?username=baihelahusain&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=iamsaadshah&color=blue&style=flat-square)
 👋
 
 
