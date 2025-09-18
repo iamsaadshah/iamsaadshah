@@ -36,7 +36,7 @@
   <tr>
     <td align="left">
    <h3><img src="./assets/icons/server.svg" width="20" height="20"/> Backend</h3>
-      <div> --> 
+      <div>
          <img src="./assets/icons/nodejs.svg" alt="nodejs" width="50" height="50" />&nbsp;&nbsp;
 <!--         <img src="./assets/icons/fastapi.svg" alt="FastAPI" width="50" height="50" />&nbsp;&nbsp;  -->
      </div>
